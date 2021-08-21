@@ -26,7 +26,7 @@
 <p align="center">
   <em>
     Hello, I am Jaswinder, a Software Engineer in datasciences domain for Fintech. <br>
-    <b>a passionate self-learner,creator</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b> Engineer</b>
+    <b>a passionate self-learner and creator</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
 </p>
