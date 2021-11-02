@@ -26,7 +26,7 @@
 <p align="center">
   <em>
     Hello, I am Jaswinder, a Software Engineer in datasciences domain for Fintech. <br>
-    <b>a passionate self-learner and creator</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    <b>Author of <a href="https://github.com/jaswinder9051998/zoofs">Zoofs</a> and <a href="https://github.com/NITRO-AI/NitroFE">NitroFE</a></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
 </p>
