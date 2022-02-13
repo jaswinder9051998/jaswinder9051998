@@ -64,3 +64,6 @@
 <p align="center"><img src="https://media.giphy.com/media/jaswinder9051998/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=jaswinder9051998&theme=juicyfresh&no-bg=true" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaswinder9051998&repo=zoofs)](https://github.com/jaswinder9051998/zoofs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITRO-AI&repo=NitroFE)](https://github.com/NITRO-AI/NitroFE)
+
