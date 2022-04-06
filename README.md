@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Jaswinder, a Software Engineer in datasciences domain for Fintech. <br>
+    I have two years of experience working in Fintech domain. <br>
     <b>Author of <a href="https://github.com/jaswinder9051998/zoofs">Zoofs</a> and <a href="https://github.com/NITRO-AI/NitroFE">NitroFE</a></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
@@ -33,12 +33,41 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=790b76110feda09f983e2f3a7dae64daeae24b8aaf871cbc&rid=giphy.gif&ct=g" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***EXPERIENCE ....***
 
-✔ I’m currently learning about **DAE**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want<br>
+✔ Associate Software Engineer II - Data Science <br>
+  > Sep 2020 - Present <br>
+  Experience in ML development for integrating various B2B applications, leveraging machine learning,<br>
+  data regression, rule-based models, robust algorithms and techniques. Responsible for measuring and <br>
+  optimizing the quality of algorithms and models. <br>
+  Some of projects are mentioned below <br>
+  
+✔ Product I have worked on    <br>
+  * B2B Credit Limit Suggestion <br>
+  Suggestion of Credit Limit adjustment for B2B customers. Created a predictive modeling system <br>
+  after analyzing years of credit action data for multiple accounts. Model has been adopted by two <br>
+  businesses to clear their blocked orders and perform proactive credit management. <br>
+  
+  * Customer Segmentation <br>
+  Customer segmentation of B2B customers to facilitate better collection strategies. Responsible for <br>
+  application of methods to increase metrics and explanation algorithm to boost customer trust in <br>
+  the solution <br>
+
+ ✔ My open source work <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaswinder9051998&repo=zoofs)](https://github.com/jaswinder9051998/zoofs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITRO-AI&repo=NitroFE)](https://github.com/NITRO-AI/NitroFE)
  
+ ✔ My publications <br>
+ 
+ * COLLECTIVE STATE IMPLEMENTATION ON PARTICLE SWARM FOR FEATURE SELECTION <br>
+  ICDICI-2020, ISBN : 978-981-15-8529-6 <br>
+  Binary particle search optimization has limitations of premature and slow convergence. Hence a new collective <br>
+  state implementation for particle swarm optimization is proposed in this work. The proposed method is <br>
+  validated with five benchmark datasets. To measure the impact of the algorithm, our proposed solution was <br>
+  compared against two popular feature selection algorithms Binary Particle Swarm Optimization (BPSO) and <br>
+  Genetic Algorithm (GA). Our results show that our proposed solution Collective state implementation- Particle <br>
+  Swarm optimization (CSI-BPSO) achieves competitive scores in feature selection <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -61,9 +90,5 @@
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/jaswinder9051998/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=jaswinder9051998&theme=juicyfresh&no-bg=true" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaswinder9051998&repo=zoofs)](https://github.com/jaswinder9051998/zoofs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITRO-AI&repo=NitroFE)](https://github.com/NITRO-AI/NitroFE)
 
