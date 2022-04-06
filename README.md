@@ -38,9 +38,8 @@
 ✔ Associate Software Engineer II - Data Science <br>
   > Sep 2020 - Present <br>
   Experience in ML development for integrating various B2B applications, leveraging machine learning,<br>
-  data regression, rule-based models, robust algorithms and techniques. Responsible for measuring and <br>
-  optimizing the quality of algorithms and models. <br>
-  Some of projects are mentioned below <br>
+  data regression, rule-based models, robust algorithms and techniques. Responsible for measuring and 
+  optimizing the quality of algorithms and models. 
   
 ✔ Product I have worked on    <br>
   * B2B Credit Limit Suggestion <br>
