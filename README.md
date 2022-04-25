@@ -35,7 +35,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***EXPERIENCE ....***
 
-✔ Associate Software Engineer II - Data Science <br>
+✔  Data Science <br>
   > Sep 2020 - Present <br>
   Experience in ML development for integrating various B2B applications, leveraging machine learning,<br>
   data regression, rule-based models, robust algorithms and techniques. Responsible for measuring and 
@@ -43,14 +43,20 @@
   
 ✔ Product I have worked on    <br>
   * B2B Credit Limit Suggestion <br>
-  Suggestion of Credit Limit adjustment for B2B customers. Created a predictive modeling system <br>
-  after analyzing years of credit action data for multiple accounts. Model has been adopted by two <br>
-  businesses to clear their blocked orders and perform proactive credit management. <br>
+  Created the product for predicting Credit Limit actions (upgrade/downgrade/extension) to be taken for B2B customers. <br>
+  Historical action, Sales forecast and industry specific credit information is utilized to predict credit action to mitigate risk for the companies. <br>
+  Model has been adopted by two companies to perform proactive credit management and manage defaulting customers.<br>
   
   * Customer Segmentation <br>
-  Customer segmentation of B2B customers to facilitate better collection strategies. Responsible for <br>
-  application of methods to increase metrics and explanation algorithm to boost customer trust in <br>
-  the solution <br>
+  Created the product for periodic customer segmentation of B2B customers to facilitate better collection strategies, <br>
+  using clustering algorithms and a unique ELO based-customer rating system.<br>
+  Also Responsible for addition of explainable k-means algorithms for cluster explanation to boost customer trust in the solution.<br>
+  The final delivery helped the companies to curate collection strategies using customer segments.<br>
+  
+ * Payment date prediction <br>
+Created the product for predicting the payment date of invoices for B2B customers. <br>
+Model has been adopted by companies to proactively identify delayed invoices and act on them to improve their order to cash lifecycle. <br>
+
 
  ✔ My open source work <br>
 
