@@ -21,6 +21,8 @@
 </p>
 </p>
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/baratheonr6/notebook)
+
 
 
 <p align="center">
