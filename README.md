@@ -13,7 +13,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jaswinder </h1>
-<h3 align="center">Assosciate Software Engineer 2 | Data Science </h3>
+<h3 align="center"> Data Science </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jaswinder-singh-531990173/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.kaggle.com/baratheonr6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a> 
