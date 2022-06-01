@@ -32,14 +32,14 @@
 <p align="center">
   <em>
     I have two years of experience working in Fintech domain. <br>
-    <b>Author of <a href="https://github.com/jaswinder9051998/zoofs">Zoofs</a> and <a href="https://github.com/NITRO-AI/NitroFE">NitroFE</a></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    <b>Author of <a href="https://github.com/jaswinder9051998/zoofs">Zoofs</a> and <a href="https://github.com/NITRO-AI/NitroFE">NitroFE</a></b>
   </em> 
   <br>
 </p>
 <br><br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***EXPERIENCE ....***
+&nbsp;***EXPERIENCE ....***
 
 ✔  Data Science <br>
   > Sep 2020 - Present <br>
@@ -80,7 +80,7 @@ Model has been adopted by companies to proactively identify delayed invoices and
   Genetic Algorithm (GA). Our results show that our proposed solution Collective state implementation- Particle <br>
   Swarm optimization (CSI-BPSO) achieves competitive scores in feature selection <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+&nbsp;***My working tools...***
 <p align="left">
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
