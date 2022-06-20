@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Lives-India-success" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jaswinder </h1>
+<h1 align="center">Hi , I am Jaswinder </h1>
 <h3 align="center"> Data Science </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jaswinder-singh-531990173/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
