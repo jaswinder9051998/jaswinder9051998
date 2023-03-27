@@ -31,7 +31,7 @@
 
 <p align="center">
   <em>
-    I have two years of experience working in Fintech domain. <br>
+    I have experience working in Fintech and Banking domain. <br>
     <b>Author of <a href="https://github.com/jaswinder9051998/zoofs">Zoofs</a> and <a href="https://github.com/NITRO-AI/NitroFE">NitroFE</a></b>
   </em> 
   <br>
